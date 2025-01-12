@@ -1,0 +1,252 @@
+treble
+2
+g _ t, b t
+16
+g, b
+a
+b
+d+
+
+|
+b
+d+
+e+
+f+
+e+
+d+
+
+b
+a
+d+
+f
+e
+b
+
+|
+a
+e
+d
+a
+d
+g _
+
+r
+
+e
+d
+
+r 8
+
+d
+
+bass
+
+r 4 *
+
+b
+
+r 8
+
+b
+a
+
+r
+
+|
+treble
+
+r 8
+
+_ d
+e
+a
+b
+_ d+
+
+e
+a
+d+
+e+
+a+
+e+
+
+bass
+e
+a
+r 2
+r 8
+|
+
+treble
+2
+b+, g+ _, d+
+r 4
+4
+a+ *, g+ _ *, d+ *
+
+16
+a+ s s, g+ s s, d+ s s
+a+ s s, g+ s s, d+ s s
+a+ s s, g+ s s, d+ s s
+a+ s s, g+ s s, d+ s s
+a+ s s, g+ s s, d+ s s
+a+ s s, g+ s s, d+ s s
+
+|
+2
+a+, g+ _, d+
+r 4
+|
+
+16
+d+
+d+ _
+b
+a
+g _
+b 
+
+a
+g
+e
+d
+d _
+r
+
+bass
+r 2
+r 8 *
+a
+
+|
+treble
+r
+e
+d _
+a
+e
+g _
+
+d =
+b
+d _
+a
+e
+d+ _
+
+bass
+a
+r 2
+r 8 *
+
+|
+treble
+d
+b 
+g _
+d+
+e
+a
+
+b 
+d+ _
+d+ =
+e+
+g+ _
+a+
+
+|
+64/3
+b+
+a+
+g+ _
+e+
+d+
+d+ _
+c+
+a
+16
+e
+d
+d _
+r 8 *
+bass
+r 2
+r
+a
+g _
+e
+
+|
+treble
+4
+a *, d *
+b *, e *
+bass
+a *
+b *
+|
+treble
+16
+a 4 *, e
+d
+g _
+e
+d
+
+r
+
+a+ 4 *, e+
+d+
+g+ _
+e+
+d+
+b+
+bass
+r 4
+r
+b 
+r 4 *
+|
+treble
+8
+d+, a, g _
+r 16
+e+, b, a _
+r 16
+d+, a, g =
+r 16
+a+ _, e+, b
+16
+g+ _ t, d+ t, b t
+|
+8
+g+, d+, b
+16
+g _
+b 
+g _
+
+e+ *, a
+g
+e
+e+
+b 
+e
+|
+d+
+d+ _
+e+
+d+ =
+d+ _
+b 
+
+d
+d _
+e
+d =
+d _
+bass
+r 2
+r 8 *
+b
